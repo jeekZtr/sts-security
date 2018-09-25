@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.news.security.core.properties.SecurityProperties",
+      "name": "news.security",
+      "type": "com.news.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.news.security.core.properties.SecurityProperties",
+      "name": "news.security.browser",
+      "type": "com.news.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.news.security.core.properties.SecurityProperties",
+      "name": "news.security.code",
+      "type": "com.news.security.core.properties.ValidateCodeProperties"
+    },
+    {
+      "sourceType": "com.news.security.core.properties.SecurityProperties",
+      "name": "news.security.social",
+      "type": "com.news.security.core.properties.SocialProperties"
+    }
+  ]
+}
